@@ -4,6 +4,8 @@
 
 * 在线阅读地址：https://cbingos.gitbooks.io/tfmj/
 
+* 支持（pdf,epub,mobi）下载：https://www.gitbook.com/book/cbingos/tfmj/details
+
 * 天凤对战平台：http://tenhou.net/
 
 * 天凤记录查询：http://arcturus.su/tenhou/ranking/
