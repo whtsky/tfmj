@@ -1,4 +1,4 @@
-# Introduction
+# beginner's luck日麻讲座译文
 
 * 最近入坑日本麻将，看到网友翻译的入门文章，特搬运过来(新浪blog排版太差劲了)
 
